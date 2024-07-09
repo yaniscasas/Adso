@@ -1,0 +1,54 @@
+h1{
+    color: rgb(10, 10, 26);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(213, 185, 240);
+    margin: 0.7em ;
+    padding: 0.2em;
+    border: 0.1em solid black;
+    width: 25em;
+}
+img{
+    background:purple: 50em;
+  border-radius:60%
+   }
+.nacimiento{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(106, 199, 228);
+    margin: 0.600em 0;
+    padding: 0.2em;
+    border: 0.1em solid rgb(32, 29, 32);
+    width: 14em;
+}
+.estudy{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(106, 199, 228);
+    margin: 0.600em 0;
+    padding: 0.2em;
+    border: 0.1em solid rgb(12, 10, 12);
+    width: 14em;
+
+}
+.hbb{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(106, 199, 228);
+    margin: 0.600em 0;
+    padding: 0.2em;
+    border: 0.1em solid rgb(13, 13, 14);
+    width: 14em;
+}
+.rd{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(106, 199, 228);
+    margin: 0.600em 0;
+    padding: 0.2em;
+    border: 0.1em solid rgb(25, 24, 26);
+    width: 14em;
+}
+
+  body{
+    background: rgba(172, 99, 240, 0.63);
+  }
+  .info{
+    border: 0.3em solid black;
+    background: rgb(247, 252, 255);
+  }
